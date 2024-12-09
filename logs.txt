@@ -5125,3 +5125,1207 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2024-12-08 21:48:51,086 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: Other
 2024-12-08 21:48:51,086 - INFO - Subject: A small change, Classification: Other
 2024-12-08 21:48:51,086 - INFO - Subject: Mathematical Developer @ CGI, Classification: Other
+2024-12-08 23:06:48,932 - INFO - Starting the application...
+2024-12-08 23:06:51,357 - INFO - Authenticating Gmail API...
+2024-12-08 23:06:51,357 - INFO - Starting Gmail API authentication...
+2024-12-08 23:06:51,505 - INFO - Gmail API authentication successful.
+2024-12-08 23:06:51,507 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-12-08 23:06:51,509 - INFO - Gmail authentication successful.
+2024-12-08 23:06:51,509 - INFO - Fetching emails...
+2024-12-08 23:06:51,509 - INFO - Fetching up to 50 emails from the Primary Inbox...
+2024-12-08 23:07:02,278 - INFO - Successfully fetched 50 emails.
+2024-12-08 23:07:02,279 - INFO - Fetched 50 emails.
+2024-12-08 23:07:02,279 - INFO - Classifying emails...
+2024-12-08 23:07:02,279 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:03,744 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:03,749 - INFO - Classification result: Other
+2024-12-08 23:07:03,749 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:04,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:04,248 - INFO - Classification result: Other
+2024-12-08 23:07:04,248 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:05,194 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:05,196 - INFO - Classification result: Other
+2024-12-08 23:07:05,196 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:05,708 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:05,711 - INFO - Classification result: Other
+2024-12-08 23:07:05,711 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:07,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:07,554 - INFO - Classification result: Other
+2024-12-08 23:07:07,554 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:08,266 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:08,268 - INFO - Classification result: Other
+2024-12-08 23:07:08,269 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:08,884 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:08,887 - INFO - Classification result: Other
+2024-12-08 23:07:08,887 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:09,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:09,298 - INFO - Classification result: Other
+2024-12-08 23:07:09,298 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:09,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:09,684 - INFO - Classification result: Other
+2024-12-08 23:07:09,684 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:11,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:11,038 - INFO - Classification result: Other
+2024-12-08 23:07:11,038 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:11,749 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:11,751 - INFO - Classification result: Other
+2024-12-08 23:07:11,751 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:12,632 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:12,634 - INFO - Classification result: Other
+2024-12-08 23:07:12,635 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:13,010 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:13,012 - INFO - Classification result: Other
+2024-12-08 23:07:13,012 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:14,924 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:14,927 - INFO - Classification result: Other
+2024-12-08 23:07:14,927 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:15,365 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:15,368 - INFO - Classification result: Other
+2024-12-08 23:07:15,368 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:20,762 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:20,765 - INFO - Classification result: Other
+2024-12-08 23:07:20,765 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:21,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:21,275 - INFO - Classification result: Other
+2024-12-08 23:07:21,275 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:21,988 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:21,990 - INFO - Classification result: Other
+2024-12-08 23:07:21,990 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:22,501 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:22,501 - INFO - Classification result: Other
+2024-12-08 23:07:22,501 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:22,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:22,816 - INFO - Classification result: Other
+2024-12-08 23:07:22,816 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:23,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:23,527 - INFO - Classification result: Other
+2024-12-08 23:07:23,527 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:25,016 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:25,019 - INFO - Classification result: Other
+2024-12-08 23:07:25,019 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:25,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:25,535 - INFO - Classification result: Other
+2024-12-08 23:07:25,536 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:26,686 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:26,691 - INFO - Classification result: Other
+2024-12-08 23:07:26,691 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:27,157 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:27,160 - INFO - Classification result: Interview Invitation
+2024-12-08 23:07:27,160 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:27,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:27,432 - INFO - Classification result: Other
+2024-12-08 23:07:27,432 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:27,898 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:27,901 - INFO - Classification result: Other
+2024-12-08 23:07:27,901 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:28,336 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:28,337 - INFO - Classification result: Other
+2024-12-08 23:07:28,337 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:28,997 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:29,001 - INFO - Classification result: Other
+2024-12-08 23:07:29,002 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:29,670 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:29,672 - INFO - Classification result: Other
+2024-12-08 23:07:29,673 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:30,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:30,284 - INFO - Classification result: Other
+2024-12-08 23:07:30,284 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:30,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:30,799 - INFO - Classification result: Other
+2024-12-08 23:07:30,799 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:32,323 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:32,326 - INFO - Classification result: Other
+2024-12-08 23:07:32,326 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:32,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:32,746 - INFO - Classification result: Other
+2024-12-08 23:07:32,746 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:33,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:33,093 - INFO - Classification result: Other
+2024-12-08 23:07:33,093 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:33,576 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:33,577 - INFO - Classification result: Rejection
+2024-12-08 23:07:33,577 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:33,971 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:33,974 - INFO - Classification result: Other
+2024-12-08 23:07:33,974 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:34,380 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:34,383 - INFO - Classification result: Other
+2024-12-08 23:07:34,383 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:34,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:34,789 - INFO - Classification result: Other
+2024-12-08 23:07:34,789 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:35,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:35,302 - INFO - Classification result: Other
+2024-12-08 23:07:35,302 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:37,037 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:37,039 - INFO - Classification result: Other
+2024-12-08 23:07:37,039 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:37,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:37,619 - INFO - Classification result: Other
+2024-12-08 23:07:37,619 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:38,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:38,274 - INFO - Classification result: Other
+2024-12-08 23:07:38,274 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:38,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:38,684 - INFO - Classification result: Rejection
+2024-12-08 23:07:38,684 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:41,854 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:41,858 - INFO - Classification result: Other
+2024-12-08 23:07:41,858 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:42,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:42,574 - INFO - Classification result: Other
+2024-12-08 23:07:42,574 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:43,187 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:43,214 - INFO - Classification result: Other
+2024-12-08 23:07:43,214 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:44,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:44,637 - INFO - Classification result: Other
+2024-12-08 23:07:44,637 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:45,236 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:45,238 - INFO - Classification result: Other
+2024-12-08 23:07:45,238 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:07:45,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:07:45,646 - INFO - Classification result: Other
+2024-12-08 23:07:45,646 - INFO - Email classification complete.
+2024-12-08 23:07:45,646 - INFO - Classified Emails:
+2024-12-08 23:07:45,646 - INFO - Subject: Your Amazon.co.uk order of "ORSKEY Dash Cam for Cars...", Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Front Office Quantitative Developer at Barclays and 2 more Quantitative developer jobs in London for you!, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: “software engineer”: G2i Inc. - Software Engineer for Training AI Data (Python) and more, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Software Engineer (DV Security Clearance) @ CGI, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: “quantitative developer”: VirtueTech Recruitment Group - Quant Developer | Structured products, Options, Swaps, Pricing | £150,000 + Bonus | Hybrid working, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Backend Software Engineer C# .Net AI ChatGPT @ client server, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Chrysalis junior developer @ ADHD 360, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Respond to your teacher training offer from UCL, University College London, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Your weekly vacancy update from UCL Careers, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 13 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: “quantitative developer”: Akkodis - Quantitative Developer - Python - Asset Management, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Software Engineer AWS Golang TypeScript @ client server, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,646 - INFO - Subject: “software engineer”: RoundOne AI - Graduate Software Engineer (GenAI) and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 21 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Software Engineer Labview (Manufacturing) @ Hays Recruitment, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Technical Lead @ CGI, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Top opportunities for “software engineer”, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “quantitative developer”: Jobs via eFinancialCareers - Desktop Build Group (DBG) Junior Client Quant Developer (Excel/Python), Specialist Sales - Financial Solutions - Bloomberg and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: You have canceled Premium Career, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: RE: **URGENT** Change in interview slot, Classification: Interview Invitation
+2024-12-08 23:07:45,647 - INFO - Subject: Automatic reply: **URGENT** Change in interview slot, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: You have submitted your assignment submission for Upload your completed Safer Recruitment Declaration here. Please do not forget to sign it., Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: South Korea withstands a shocking stress test, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 15 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: You have a new message, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “graduate software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: New key, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Proceso de selección Qlip como Junior Product Engineer, Classification: Rejection
+2024-12-08 23:07:45,647 - INFO - Subject: “graduate software engineer”: Starling Bank - Graduate Software Engineer - 2025, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Web Developer @ RAI, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Société Générale is hiring for V.I.E. Multi-asset Research Analyst - Python Developer H/F/X + 4 new Junior Quantitative Developer jobs , Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,647 - INFO - Subject: “software engineer”: POLYAI LIMITED - Software Engineer (Must be UK based) and more, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: Synapri is hiring for Python Developer + 16 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: Update on your application, Classification: Rejection
+2024-12-08 23:07:45,648 - INFO - Subject: Bruno, you have new application updates this week, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: TS Imagine is hiring for Quantitative Data Developer + 14 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: “quantitative developer”: Hunter Bond - C++ Quantitative Developer - Hybrid Working - £70,000 - £275,000 Base (+ Bonus) and more, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: Other
+2024-12-08 23:07:45,648 - INFO - Subject: A small change, Classification: Other
+2024-12-08 23:20:12,546 - INFO - Starting the application...
+2024-12-08 23:20:14,114 - INFO - Authenticating Gmail API...
+2024-12-08 23:20:14,115 - INFO - Starting Gmail API authentication...
+2024-12-08 23:20:14,119 - INFO - Gmail API authentication successful.
+2024-12-08 23:20:14,122 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-12-08 23:20:14,125 - INFO - Gmail authentication successful.
+2024-12-08 23:20:14,125 - INFO - Fetching emails...
+2024-12-08 23:20:14,125 - INFO - Fetching up to 50 emails from the Primary Inbox...
+2024-12-08 23:20:24,384 - INFO - Successfully fetched 50 emails.
+2024-12-08 23:20:24,386 - INFO - Fetched 50 emails.
+2024-12-08 23:20:24,386 - INFO - Classifying emails...
+2024-12-08 23:20:24,386 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:24,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:24,878 - INFO - Classification result: Other
+2024-12-08 23:20:24,879 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:25,544 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:25,546 - INFO - Classification result: The classification for this email is 'Other'.
+2024-12-08 23:20:25,546 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:26,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:26,700 - INFO - Classification result: The classification for this email is 'Other'. This is a job alert email about new job listings matching your preferences and does not pertain to a specific application, interview, assessment, or rejection.
+2024-12-08 23:20:26,701 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:27,789 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:27,792 - INFO - Classification result: The classification for this email is 'Other'. It is an email about a job ad and not related to a job application, interview, assessment, or rejection.
+2024-12-08 23:20:27,792 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:29,972 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:29,975 - INFO - Classification result: The email is a newsletter from targetjobs containing various job listings and event information, and is not directly related to a specific job application, interview, assessment, or rejection. Therefore, the classification is 'Other'.
+2024-12-08 23:20:29,975 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:30,483 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:30,484 - INFO - Classification result: Other
+2024-12-08 23:20:30,484 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:31,405 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:31,408 - INFO - Classification result: This email is about a job ad and not directly related to a job application, interview, or assessment for a specific position you have applied to. Therefore, the classification is 'Other'.
+2024-12-08 23:20:31,408 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:32,325 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:32,326 - INFO - Classification result: The classification for this email is 'Other'. It is an email about a job advertisement, not related to a job you have applied for.
+2024-12-08 23:20:32,326 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:33,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:33,151 - INFO - Classification result: Other
+2024-12-08 23:20:33,152 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:33,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:33,684 - INFO - Classification result: The classification for this email is 'Other'.
+2024-12-08 23:20:33,684 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:34,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:34,581 - INFO - Classification result: The classification for this email is 'Other'.
+2024-12-08 23:20:34,581 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:35,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:35,093 - INFO - Classification result: Other
+2024-12-08 23:20:35,093 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:35,603 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:35,605 - INFO - Classification result: Other
+2024-12-08 23:20:35,605 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:37,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:37,346 - INFO - Classification result: Other
+2024-12-08 23:20:37,347 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:37,959 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:37,961 - INFO - Classification result: Other
+2024-12-08 23:20:37,961 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:39,085 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:39,105 - INFO - Classification result: This email is a job alert that provides information about job opportunities, rather than a direct response to a job application, an interview invitation, an assessment invite, or a rejection. Therefore, the classification for this email is 'Other'.
+2024-12-08 23:20:39,105 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:39,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:39,803 - INFO - Classification result: The classification is 'Other' since this email is about a job alert and not about a specific job application you have made.
+2024-12-08 23:20:39,803 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:41,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:41,316 - INFO - Classification result: The classification for this email is 'Other'. It contains a job alert for new job listings, not an email related to a job application you have submitted, an interview invitation, an assessment invite, or a rejection.
+2024-12-08 23:20:41,316 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:41,961 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:41,964 - INFO - Classification result: The classification is 'Other'. This email is about a job advertisement and not related to a specific application, interview, or rejection.
+2024-12-08 23:20:41,964 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:42,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:42,642 - INFO - Classification result: This email is about a job advertisement for a Technical Lead position at CGI in London. It is not related to a job application, interview, assessment invite, or rejection. 
+
+Classification: Other
+2024-12-08 23:20:42,642 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:43,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:43,621 - INFO - Classification result: This email is classified as 'Other' because it is a job alert email containing listings of job opportunities, and not specifically related to a job application, interview invitation, assessment invite, or rejection.
+2024-12-08 23:20:43,621 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:45,126 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:45,129 - INFO - Classification result: Other
+2024-12-08 23:20:45,129 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:45,946 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:45,948 - INFO - Classification result: The classification for this email is 'Other' as it is a job alert for job openings and not directly related to a job you have applied to or any of the other specified categories.
+2024-12-08 23:20:45,948 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:46,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:46,358 - INFO - Classification result: The classification is 'Other'.
+2024-12-08 23:20:46,358 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:46,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:46,908 - INFO - Classification result: Company: The University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:20:46,908 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:50,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:50,451 - INFO - Classification result: Other
+2024-12-08 23:20:50,451 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:50,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:50,964 - INFO - Classification result: Other
+2024-12-08 23:20:50,964 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:51,475 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:51,478 - INFO - Classification result: The classification of the email is 'Other'.
+2024-12-08 23:20:51,478 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:52,090 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:52,092 - INFO - Classification result: Other
+2024-12-08 23:20:52,092 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:52,908 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:52,908 - INFO - Classification result: The classification for this email is 'Other'. This email contains job alerts and advertisements rather than information about a specific job application, interview, assessment, or rejection.
+2024-12-08 23:20:52,908 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:53,523 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:53,526 - INFO - Classification result: Other
+2024-12-08 23:20:53,526 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:54,445 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:54,448 - INFO - Classification result: The classification for this email is 'Other'. It is a job alert email listing various job opportunities, not an application, invitation, or rejection.
+2024-12-08 23:20:54,448 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:56,288 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:56,290 - INFO - Classification result: The email is classified as "Other" because it contains general job advertisements and updates from TargetJobs, but does not relate to a specific job application or progression in the application process.
+2024-12-08 23:20:56,290 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:56,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:56,653 - INFO - Classification result: Other
+2024-12-08 23:20:56,653 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:57,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:57,622 - INFO - Classification result: The classification for this email is 'Other' as it lacks specific content to classify it into the other categories.
+2024-12-08 23:20:57,622 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:58,234 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:58,237 - INFO - Classification result: Company: Qlip  
+Position: Not specified  
+Classification: Rejection
+2024-12-08 23:20:58,237 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:20:58,643 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:20:58,646 - INFO - Classification result: Other
+2024-12-08 23:20:58,646 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:00,076 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:00,077 - INFO - Classification result: The email is about a job advertisement for a Web Developer position at RAI in London and does not pertain to a job application, interview, assessment, or rejection. Therefore, the classification is 'Other'.
+2024-12-08 23:21:00,077 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:00,998 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:01,000 - INFO - Classification result: The classification is 'Other' because this email is a job alert about new job postings and not directly related to a job application process you are involved in.
+2024-12-08 23:21:01,001 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:01,510 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:01,512 - INFO - Classification result: Other
+2024-12-08 23:21:01,512 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:03,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:03,560 - INFO - Classification result: The classification is 'Other'. This email is providing job listings and updates, not related to a specific job application you have submitted.
+2024-12-08 23:21:03,560 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:04,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:04,482 - INFO - Classification result: The classification is 'Other'. This email is a job alert containing job advertisements from LinkedIn, not related to a specific application or a process you are currently involved in.
+2024-12-08 23:21:04,483 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:05,690 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:05,691 - INFO - Classification result: The email is about job ads for Quantitative Developer positions in London from Indeed. It is not an email about a job application you have submitted, an interview invitation, an assessment, or a rejection. 
+
+**Classification:** Other
+2024-12-08 23:21:05,691 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:06,118 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:06,120 - INFO - Classification result: Rejection
+2024-12-08 23:21:06,121 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:06,687 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:06,689 - INFO - Classification result: The classification for this email is 'Other'.
+2024-12-08 23:21:06,689 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:07,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:07,481 - INFO - Classification result: The classification is 'Other'. This email is a job alert from Indeed listing job advertisements and not related to a specific job application or communication you received after applying for a job.
+2024-12-08 23:21:07,482 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:08,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:08,168 - INFO - Classification result: The classification for this email is 'Other'. It includes job alerts and advertisements, not specific correspondence about an application or a hiring process stage.
+2024-12-08 23:21:08,168 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:09,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:09,603 - INFO - Classification result: Other
+2024-12-08 23:21:09,603 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:10,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:10,521 - INFO - Classification result: The classification for this email is 'Other'. It contains job alerts for job ads and not a specific job application or correspondence related to a specific job application process.
+2024-12-08 23:21:10,521 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:21:13,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:21:13,825 - INFO - Classification result: Other
+2024-12-08 23:21:13,826 - INFO - Email classification complete.
+2024-12-08 23:21:13,826 - INFO - Classified Emails:
+2024-12-08 23:21:13,826 - INFO - Subject: Your Amazon.co.uk order of "ORSKEY Dash Cam for Cars...", Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Front Office Quantitative Developer at Barclays and 2 more Quantitative developer jobs in London for you!, Classification: The classification for this email is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: “software engineer”: G2i Inc. - Software Engineer for Training AI Data (Python) and more, Classification: The classification for this email is 'Other'. This is a job alert email about new job listings matching your preferences and does not pertain to a specific application, interview, assessment, or rejection.
+2024-12-08 23:21:13,826 - INFO - Subject: Software Engineer (DV Security Clearance) @ CGI, Classification: The classification for this email is 'Other'. It is an email about a job ad and not related to a job application, interview, assessment, or rejection.
+2024-12-08 23:21:13,826 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: The email is a newsletter from targetjobs containing various job listings and event information, and is not directly related to a specific job application, interview, assessment, or rejection. Therefore, the classification is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: “quantitative developer”: VirtueTech Recruitment Group - Quant Developer | Structured products, Options, Swaps, Pricing | £150,000 + Bonus | Hybrid working, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Backend Software Engineer C# .Net AI ChatGPT @ client server, Classification: This email is about a job ad and not directly related to a job application, interview, or assessment for a specific position you have applied to. Therefore, the classification is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: Chrysalis junior developer @ ADHD 360, Classification: The classification for this email is 'Other'. It is an email about a job advertisement, not related to a job you have applied for.
+2024-12-08 23:21:13,826 - INFO - Subject: Respond to your teacher training offer from UCL, University College London, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Your weekly vacancy update from UCL Careers, Classification: The classification for this email is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 13 new Quantitative developer jobs in London, Classification: The classification for this email is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: “quantitative developer”: Akkodis - Quantitative Developer - Python - Asset Management, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Software Engineer AWS Golang TypeScript @ client server, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: “software engineer”: RoundOne AI - Graduate Software Engineer (GenAI) and more, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer and more, Classification: This email is a job alert that provides information about job opportunities, rather than a direct response to a job application, an interview invitation, an assessment invite, or a rejection. Therefore, the classification for this email is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer, Classification: The classification is 'Other' since this email is about a job alert and not about a specific job application you have made.
+2024-12-08 23:21:13,826 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 21 new Quantitative developer jobs in London, Classification: The classification for this email is 'Other'. It contains a job alert for new job listings, not an email related to a job application you have submitted, an interview invitation, an assessment invite, or a rejection.
+2024-12-08 23:21:13,826 - INFO - Subject: Software Engineer Labview (Manufacturing) @ Hays Recruitment, Classification: The classification is 'Other'. This email is about a job advertisement and not related to a specific application, interview, or rejection.
+2024-12-08 23:21:13,826 - INFO - Subject: Technical Lead @ CGI, Classification: This email is about a job advertisement for a Technical Lead position at CGI in London. It is not related to a job application, interview, assessment invite, or rejection. 
+
+Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: Top opportunities for “software engineer”, Classification: This email is classified as 'Other' because it is a job alert email containing listings of job opportunities, and not specifically related to a job application, interview invitation, assessment invite, or rejection.
+2024-12-08 23:21:13,826 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: “quantitative developer”: Jobs via eFinancialCareers - Desktop Build Group (DBG) Junior Client Quant Developer (Excel/Python), Specialist Sales - Financial Solutions - Bloomberg and more, Classification: The classification for this email is 'Other' as it is a job alert for job openings and not directly related to a job you have applied to or any of the other specified categories.
+2024-12-08 23:21:13,826 - INFO - Subject: You have canceled Premium Career, Classification: The classification is 'Other'.
+2024-12-08 23:21:13,826 - INFO - Subject: RE: **URGENT** Change in interview slot, Classification: Company: The University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:21:13,826 - INFO - Subject: Automatic reply: **URGENT** Change in interview slot, Classification: Other
+2024-12-08 23:21:13,826 - INFO - Subject: You have submitted your assignment submission for Upload your completed Safer Recruitment Declaration here. Please do not forget to sign it., Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: South Korea withstands a shocking stress test, Classification: The classification of the email is 'Other'.
+2024-12-08 23:21:13,827 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 15 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: The classification for this email is 'Other'. This email contains job alerts and advertisements rather than information about a specific job application, interview, assessment, or rejection.
+2024-12-08 23:21:13,827 - INFO - Subject: You have a new message, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: “software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: The classification for this email is 'Other'. It is a job alert email listing various job opportunities, not an application, invitation, or rejection.
+2024-12-08 23:21:13,827 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: The email is classified as "Other" because it contains general job advertisements and updates from TargetJobs, but does not relate to a specific job application or progression in the application process.
+2024-12-08 23:21:13,827 - INFO - Subject: “graduate software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: New key, Classification: The classification for this email is 'Other' as it lacks specific content to classify it into the other categories.
+2024-12-08 23:21:13,827 - INFO - Subject: Proceso de selección Qlip como Junior Product Engineer, Classification: Company: Qlip  
+Position: Not specified  
+Classification: Rejection
+2024-12-08 23:21:13,827 - INFO - Subject: “graduate software engineer”: Starling Bank - Graduate Software Engineer - 2025, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: Web Developer @ RAI, Classification: The email is about a job advertisement for a Web Developer position at RAI in London and does not pertain to a job application, interview, assessment, or rejection. Therefore, the classification is 'Other'.
+2024-12-08 23:21:13,827 - INFO - Subject: Société Générale is hiring for V.I.E. Multi-asset Research Analyst - Python Developer H/F/X + 4 new Junior Quantitative Developer jobs , Classification: The classification is 'Other' because this email is a job alert about new job postings and not directly related to a job application process you are involved in.
+2024-12-08 23:21:13,827 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: The classification is 'Other'. This email is providing job listings and updates, not related to a specific job application you have submitted.
+2024-12-08 23:21:13,827 - INFO - Subject: “software engineer”: POLYAI LIMITED - Software Engineer (Must be UK based) and more, Classification: The classification is 'Other'. This email is a job alert containing job advertisements from LinkedIn, not related to a specific application or a process you are currently involved in.
+2024-12-08 23:21:13,827 - INFO - Subject: Synapri is hiring for Python Developer + 16 new Quantitative developer jobs in London, Classification: The email is about job ads for Quantitative Developer positions in London from Indeed. It is not an email about a job application you have submitted, an interview invitation, an assessment, or a rejection. 
+
+**Classification:** Other
+2024-12-08 23:21:13,827 - INFO - Subject: Update on your application, Classification: Rejection
+2024-12-08 23:21:13,827 - INFO - Subject: Bruno, you have new application updates this week, Classification: The classification for this email is 'Other'.
+2024-12-08 23:21:13,827 - INFO - Subject: TS Imagine is hiring for Quantitative Data Developer + 14 new Quantitative developer jobs in London, Classification: The classification is 'Other'. This email is a job alert from Indeed listing job advertisements and not related to a specific job application or communication you received after applying for a job.
+2024-12-08 23:21:13,827 - INFO - Subject: “quantitative developer”: Hunter Bond - C++ Quantitative Developer - Hybrid Working - £70,000 - £275,000 Base (+ Bonus) and more, Classification: The classification for this email is 'Other'. It includes job alerts and advertisements, not specific correspondence about an application or a hiring process stage.
+2024-12-08 23:21:13,827 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:21:13,827 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: The classification for this email is 'Other'. It contains job alerts for job ads and not a specific job application or correspondence related to a specific job application process.
+2024-12-08 23:21:13,827 - INFO - Subject: A small change, Classification: Other
+2024-12-08 23:22:44,012 - INFO - Starting the application...
+2024-12-08 23:22:45,385 - INFO - Authenticating Gmail API...
+2024-12-08 23:22:45,385 - INFO - Starting Gmail API authentication...
+2024-12-08 23:22:45,390 - INFO - Gmail API authentication successful.
+2024-12-08 23:22:45,394 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-12-08 23:22:45,397 - INFO - Gmail authentication successful.
+2024-12-08 23:22:45,398 - INFO - Fetching emails...
+2024-12-08 23:22:45,398 - INFO - Fetching up to 50 emails from the Primary Inbox...
+2024-12-08 23:22:54,999 - INFO - Successfully fetched 50 emails.
+2024-12-08 23:22:55,001 - INFO - Fetched 50 emails.
+2024-12-08 23:22:55,001 - INFO - Classifying emails...
+2024-12-08 23:22:55,001 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:55,490 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:55,498 - INFO - Classification result: Other
+2024-12-08 23:22:55,498 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:55,997 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:56,000 - INFO - Classification result: Other
+2024-12-08 23:22:56,000 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:56,508 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:56,509 - INFO - Classification result: Other
+2024-12-08 23:22:56,509 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:57,124 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:57,126 - INFO - Classification result: Other
+2024-12-08 23:22:57,126 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:58,454 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:58,456 - INFO - Classification result: Other
+2024-12-08 23:22:58,456 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:58,833 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:58,836 - INFO - Classification result: Other
+2024-12-08 23:22:58,836 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:59,272 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:59,274 - INFO - Classification result: Other
+2024-12-08 23:22:59,274 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:22:59,682 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:22:59,685 - INFO - Classification result: Other
+2024-12-08 23:22:59,685 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:00,092 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:00,095 - INFO - Classification result: Other
+2024-12-08 23:23:00,095 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:00,399 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:00,401 - INFO - Classification result: Other
+2024-12-08 23:23:00,401 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:00,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:00,865 - INFO - Classification result: Other
+2024-12-08 23:23:00,865 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:01,230 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:01,233 - INFO - Classification result: Other
+2024-12-08 23:23:01,233 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:01,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:01,736 - INFO - Classification result: Other
+2024-12-08 23:23:01,736 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:03,061 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:03,064 - INFO - Classification result: Other
+2024-12-08 23:23:03,064 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:03,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:03,577 - INFO - Classification result: Other
+2024-12-08 23:23:03,577 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:04,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:04,091 - INFO - Classification result: Other
+2024-12-08 23:23:04,091 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:04,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:04,498 - INFO - Classification result: Other
+2024-12-08 23:23:04,498 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:05,314 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:05,316 - INFO - Classification result: Other
+2024-12-08 23:23:05,316 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:05,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:05,730 - INFO - Classification result: Other
+2024-12-08 23:23:05,730 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:06,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:06,042 - INFO - Classification result: Other
+2024-12-08 23:23:06,042 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:06,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:06,547 - INFO - Classification result: Other
+2024-12-08 23:23:06,548 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:10,129 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:10,131 - INFO - Classification result: Other
+2024-12-08 23:23:10,131 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:10,644 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:10,646 - INFO - Classification result: Other
+2024-12-08 23:23:10,647 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:10,940 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:10,943 - INFO - Classification result: Other
+2024-12-08 23:23:10,943 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:11,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:11,462 - INFO - Classification result: Company: University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:23:11,462 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:11,767 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:11,768 - INFO - Classification result: Other
+2024-12-08 23:23:11,769 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:12,130 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:12,132 - INFO - Classification result: Other
+2024-12-08 23:23:12,132 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:12,585 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:12,587 - INFO - Classification result: Other
+2024-12-08 23:23:12,588 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:13,200 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:13,203 - INFO - Classification result: Other
+2024-12-08 23:23:13,203 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:13,711 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:13,713 - INFO - Classification result: Other
+2024-12-08 23:23:13,713 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:14,246 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:14,247 - INFO - Classification result: Other
+2024-12-08 23:23:14,247 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:14,633 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:14,636 - INFO - Classification result: Other
+2024-12-08 23:23:14,636 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:15,761 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:15,763 - INFO - Classification result: Other
+2024-12-08 23:23:15,764 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:16,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:16,178 - INFO - Classification result: Other
+2024-12-08 23:23:16,178 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:16,462 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:16,463 - INFO - Classification result: Other
+2024-12-08 23:23:16,463 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:17,196 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:17,197 - INFO - Classification result: Company: Qlip, Position: Not Specified, Classification: Rejection
+2024-12-08 23:23:17,197 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:17,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:17,536 - INFO - Classification result: Other
+2024-12-08 23:23:17,536 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:18,014 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:18,016 - INFO - Classification result: Other
+2024-12-08 23:23:18,016 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:18,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:18,642 - INFO - Classification result: Other
+2024-12-08 23:23:18,642 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:19,011 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:19,018 - INFO - Classification result: Other
+2024-12-08 23:23:19,019 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:20,369 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:20,371 - INFO - Classification result: Other
+2024-12-08 23:23:20,372 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:20,885 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:20,888 - INFO - Classification result: Other
+2024-12-08 23:23:20,888 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:21,494 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:21,495 - INFO - Classification result: Other
+2024-12-08 23:23:21,495 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:21,813 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:21,815 - INFO - Classification result: Rejection
+2024-12-08 23:23:21,815 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:22,211 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:22,213 - INFO - Classification result: Other
+2024-12-08 23:23:22,214 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:22,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:22,678 - INFO - Classification result: Other
+2024-12-08 23:23:22,679 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:23,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:23,094 - INFO - Classification result: Other
+2024-12-08 23:23:23,094 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:24,158 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:24,162 - INFO - Classification result: Other
+2024-12-08 23:23:24,162 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:24,549 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:24,551 - INFO - Classification result: Other
+2024-12-08 23:23:24,552 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:23:24,863 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:23:24,865 - INFO - Classification result: Other
+2024-12-08 23:23:24,865 - INFO - Email classification complete.
+2024-12-08 23:23:24,865 - INFO - Classified Emails:
+2024-12-08 23:23:24,865 - INFO - Subject: Your Amazon.co.uk order of "ORSKEY Dash Cam for Cars...", Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Front Office Quantitative Developer at Barclays and 2 more Quantitative developer jobs in London for you!, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: “software engineer”: G2i Inc. - Software Engineer for Training AI Data (Python) and more, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Software Engineer (DV Security Clearance) @ CGI, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: “quantitative developer”: VirtueTech Recruitment Group - Quant Developer | Structured products, Options, Swaps, Pricing | £150,000 + Bonus | Hybrid working, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Backend Software Engineer C# .Net AI ChatGPT @ client server, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Chrysalis junior developer @ ADHD 360, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Respond to your teacher training offer from UCL, University College London, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Your weekly vacancy update from UCL Careers, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 13 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:23:24,865 - INFO - Subject: “quantitative developer”: Akkodis - Quantitative Developer - Python - Asset Management, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Software Engineer AWS Golang TypeScript @ client server, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: “software engineer”: RoundOne AI - Graduate Software Engineer (GenAI) and more, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 21 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Software Engineer Labview (Manufacturing) @ Hays Recruitment, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Technical Lead @ CGI, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Top opportunities for “software engineer”, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: “quantitative developer”: Jobs via eFinancialCareers - Desktop Build Group (DBG) Junior Client Quant Developer (Excel/Python), Specialist Sales - Financial Solutions - Bloomberg and more, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: You have canceled Premium Career, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: RE: **URGENT** Change in interview slot, Classification: Company: University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:23:24,866 - INFO - Subject: Automatic reply: **URGENT** Change in interview slot, Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: You have submitted your assignment submission for Upload your completed Safer Recruitment Declaration here. Please do not forget to sign it., Classification: Other
+2024-12-08 23:23:24,866 - INFO - Subject: South Korea withstands a shocking stress test, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 15 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: You have a new message, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “graduate software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: New key, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Proceso de selección Qlip como Junior Product Engineer, Classification: Company: Qlip, Position: Not Specified, Classification: Rejection
+2024-12-08 23:23:24,867 - INFO - Subject: “graduate software engineer”: Starling Bank - Graduate Software Engineer - 2025, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Web Developer @ RAI, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Société Générale is hiring for V.I.E. Multi-asset Research Analyst - Python Developer H/F/X + 4 new Junior Quantitative Developer jobs , Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “software engineer”: POLYAI LIMITED - Software Engineer (Must be UK based) and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Synapri is hiring for Python Developer + 16 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Update on your application, Classification: Rejection
+2024-12-08 23:23:24,867 - INFO - Subject: Bruno, you have new application updates this week, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: TS Imagine is hiring for Quantitative Data Developer + 14 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “quantitative developer”: Hunter Bond - C++ Quantitative Developer - Hybrid Working - £70,000 - £275,000 Base (+ Bonus) and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: Other
+2024-12-08 23:23:24,867 - INFO - Subject: A small change, Classification: Other
+2024-12-08 23:35:25,045 - INFO - Starting the application...
+2024-12-08 23:35:26,281 - INFO - Authenticating Gmail API...
+2024-12-08 23:35:26,281 - INFO - Starting Gmail API authentication...
+2024-12-08 23:35:26,285 - INFO - Gmail API authentication successful.
+2024-12-08 23:35:26,287 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-12-08 23:35:26,290 - INFO - Gmail authentication successful.
+2024-12-08 23:35:26,290 - INFO - Fetching emails...
+2024-12-08 23:35:26,290 - INFO - Fetching up to 50 emails from the Primary Inbox...
+2024-12-08 23:35:35,980 - INFO - Successfully fetched 50 emails.
+2024-12-08 23:35:35,981 - INFO - Fetched 50 emails.
+2024-12-08 23:35:35,981 - INFO - Classifying emails...
+2024-12-08 23:35:35,981 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:36,436 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:36,444 - INFO - Classification result: Other
+2024-12-08 23:35:36,444 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:36,445 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:36,744 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:36,747 - INFO - Classification result: Other
+2024-12-08 23:35:36,747 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:36,747 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:37,251 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:37,252 - INFO - Classification result: Other
+2024-12-08 23:35:37,252 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:37,252 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:37,661 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:37,662 - INFO - Classification result: Other
+2024-12-08 23:35:37,662 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:37,662 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:38,380 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:38,382 - INFO - Classification result: Other
+2024-12-08 23:35:38,382 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:38,382 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:38,812 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:38,814 - INFO - Classification result: Other
+2024-12-08 23:35:38,815 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:38,815 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:39,134 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:39,137 - INFO - Classification result: Other
+2024-12-08 23:35:39,137 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:39,137 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:39,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:39,508 - INFO - Classification result: Other
+2024-12-08 23:35:39,509 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:39,509 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:40,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:40,122 - INFO - Classification result: Other
+2024-12-08 23:35:40,122 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:40,122 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:40,402 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:40,404 - INFO - Classification result: Other
+2024-12-08 23:35:40,405 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:40,405 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:40,750 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:40,753 - INFO - Classification result: Other
+2024-12-08 23:35:40,753 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:40,753 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:41,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:41,350 - INFO - Classification result: Other
+2024-12-08 23:35:41,350 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:41,350 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:41,755 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:41,756 - INFO - Classification result: Other
+2024-12-08 23:35:41,756 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:41,756 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:42,426 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:42,429 - INFO - Classification result: Other
+2024-12-08 23:35:42,429 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:42,429 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:42,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:42,988 - INFO - Classification result: Other
+2024-12-08 23:35:42,988 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:42,988 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:43,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:43,302 - INFO - Classification result: Other
+2024-12-08 23:35:43,302 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:43,302 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:43,702 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:43,705 - INFO - Classification result: Other
+2024-12-08 23:35:43,705 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:43,705 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:44,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:44,177 - INFO - Classification result: Other
+2024-12-08 23:35:44,178 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:44,178 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:44,523 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:44,526 - INFO - Classification result: Other
+2024-12-08 23:35:44,526 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:44,526 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:44,931 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:44,934 - INFO - Classification result: Other
+2024-12-08 23:35:44,934 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:44,934 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:45,341 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:45,343 - INFO - Classification result: Other
+2024-12-08 23:35:45,344 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:45,344 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:46,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:46,470 - INFO - Classification result: Other
+2024-12-08 23:35:46,470 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:46,470 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:46,979 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:46,982 - INFO - Classification result: Other
+2024-12-08 23:35:46,982 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:46,982 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:47,389 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:47,392 - INFO - Classification result: Other
+2024-12-08 23:35:47,392 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:47,392 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:48,041 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:48,044 - INFO - Classification result: Company: University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:35:48,044 - ERROR - Failed to decode response as JSON: Company: University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:35:48,044 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:48,347 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:48,349 - INFO - Classification result: Other
+2024-12-08 23:35:48,349 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:48,349 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:48,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:48,641 - INFO - Classification result: Other
+2024-12-08 23:35:48,641 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:48,641 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:49,000 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:49,003 - INFO - Classification result: Other
+2024-12-08 23:35:49,003 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:49,003 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:49,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:49,402 - INFO - Classification result: Other
+2024-12-08 23:35:49,403 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:49,403 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:49,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:49,746 - INFO - Classification result: Other
+2024-12-08 23:35:49,746 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:49,746 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:50,446 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:50,449 - INFO - Classification result: Other
+2024-12-08 23:35:50,449 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:50,449 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:50,873 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:50,874 - INFO - Classification result: Other
+2024-12-08 23:35:50,875 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:50,875 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:51,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:51,487 - INFO - Classification result: Other
+2024-12-08 23:35:51,487 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:51,487 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:51,842 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:51,844 - INFO - Classification result: Other
+2024-12-08 23:35:51,845 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:51,845 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:52,200 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:52,201 - INFO - Classification result: Other
+2024-12-08 23:35:52,201 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:52,201 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:52,605 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:52,607 - INFO - Classification result: Company: Qlip  
+Position: Tech Department  
+Classification: Rejection
+2024-12-08 23:35:52,607 - ERROR - Failed to decode response as JSON: Company: Qlip  
+Position: Tech Department  
+Classification: Rejection
+2024-12-08 23:35:52,607 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:54,557 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:54,560 - INFO - Classification result: Other
+2024-12-08 23:35:54,561 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:54,561 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:54,966 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:54,969 - INFO - Classification result: Other
+2024-12-08 23:35:54,969 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:54,970 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:55,376 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:55,379 - INFO - Classification result: Other
+2024-12-08 23:35:55,379 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:55,379 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:55,683 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:55,686 - INFO - Classification result: Other
+2024-12-08 23:35:55,686 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:55,686 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:56,400 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:56,403 - INFO - Classification result: Other
+2024-12-08 23:35:56,403 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:56,403 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:56,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:56,915 - INFO - Classification result: Other
+2024-12-08 23:35:56,915 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:56,916 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:57,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:57,322 - INFO - Classification result: Other
+2024-12-08 23:35:57,322 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:57,322 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:57,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:57,782 - INFO - Classification result: Rejection
+2024-12-08 23:35:57,783 - ERROR - Failed to decode response as JSON: Rejection
+2024-12-08 23:35:57,783 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:58,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:58,145 - INFO - Classification result: Other
+2024-12-08 23:35:58,145 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:58,145 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:58,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:58,661 - INFO - Classification result: Other
+2024-12-08 23:35:58,661 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:58,661 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:35:59,165 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:35:59,168 - INFO - Classification result: Other
+2024-12-08 23:35:59,168 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:35:59,168 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:36:00,143 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:36:00,146 - INFO - Classification result: Other
+2024-12-08 23:36:00,146 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:36:00,146 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:36:00,600 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:36:00,603 - INFO - Classification result: Other
+2024-12-08 23:36:00,603 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:36:00,603 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-08 23:36:00,875 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-08 23:36:00,877 - INFO - Classification result: Other
+2024-12-08 23:36:00,877 - ERROR - Failed to decode response as JSON: Other
+2024-12-08 23:36:00,877 - INFO - Email classification complete.
+2024-12-08 23:36:00,877 - INFO - Classified Emails:
+2024-12-08 23:36:00,877 - INFO - Subject: Your Amazon.co.uk order of "ORSKEY Dash Cam for Cars...", Classification: Other
+2024-12-08 23:36:00,877 - INFO - Subject: Front Office Quantitative Developer at Barclays and 2 more Quantitative developer jobs in London for you!, Classification: Other
+2024-12-08 23:36:00,877 - INFO - Subject: “software engineer”: G2i Inc. - Software Engineer for Training AI Data (Python) and more, Classification: Other
+2024-12-08 23:36:00,877 - INFO - Subject: Software Engineer (DV Security Clearance) @ CGI, Classification: Other
+2024-12-08 23:36:00,877 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: “quantitative developer”: VirtueTech Recruitment Group - Quant Developer | Structured products, Options, Swaps, Pricing | £150,000 + Bonus | Hybrid working, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Backend Software Engineer C# .Net AI ChatGPT @ client server, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Chrysalis junior developer @ ADHD 360, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Respond to your teacher training offer from UCL, University College London, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Your weekly vacancy update from UCL Careers, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 13 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: “quantitative developer”: Akkodis - Quantitative Developer - Python - Asset Management, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Software Engineer AWS Golang TypeScript @ client server, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: “software engineer”: RoundOne AI - Graduate Software Engineer (GenAI) and more, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 21 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Software Engineer Labview (Manufacturing) @ Hays Recruitment, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Technical Lead @ CGI, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Top opportunities for “software engineer”, Classification: Other
+2024-12-08 23:36:00,878 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “quantitative developer”: Jobs via eFinancialCareers - Desktop Build Group (DBG) Junior Client Quant Developer (Excel/Python), Specialist Sales - Financial Solutions - Bloomberg and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: You have canceled Premium Career, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: RE: **URGENT** Change in interview slot, Classification: Company: University of Cambridge  
+Position: PGCE Maths program  
+Classification: Interview Invitation
+2024-12-08 23:36:00,879 - INFO - Subject: Automatic reply: **URGENT** Change in interview slot, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: You have submitted your assignment submission for Upload your completed Safer Recruitment Declaration here. Please do not forget to sign it., Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: South Korea withstands a shocking stress test, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 15 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: You have a new message, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “graduate software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: New key, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Proceso de selección Qlip como Junior Product Engineer, Classification: Company: Qlip  
+Position: Tech Department  
+Classification: Rejection
+2024-12-08 23:36:00,879 - INFO - Subject: “graduate software engineer”: Starling Bank - Graduate Software Engineer - 2025, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Web Developer @ RAI, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Société Générale is hiring for V.I.E. Multi-asset Research Analyst - Python Developer H/F/X + 4 new Junior Quantitative Developer jobs , Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “software engineer”: POLYAI LIMITED - Software Engineer (Must be UK based) and more, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Synapri is hiring for Python Developer + 16 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: Update on your application, Classification: Rejection
+2024-12-08 23:36:00,879 - INFO - Subject: Bruno, you have new application updates this week, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: TS Imagine is hiring for Quantitative Data Developer + 14 new Quantitative developer jobs in London, Classification: Other
+2024-12-08 23:36:00,879 - INFO - Subject: “quantitative developer”: Hunter Bond - C++ Quantitative Developer - Hybrid Working - £70,000 - £275,000 Base (+ Bonus) and more, Classification: Other
+2024-12-08 23:36:00,880 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: Other
+2024-12-08 23:36:00,880 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: Other
+2024-12-08 23:36:00,880 - INFO - Subject: A small change, Classification: Other
+2024-12-09 01:43:01,128 - INFO - Starting the application...
+2024-12-09 01:43:02,279 - INFO - Authenticating Gmail API...
+2024-12-09 01:43:02,279 - INFO - Starting Gmail API authentication...
+2024-12-09 01:43:02,423 - INFO - Gmail API authentication successful.
+2024-12-09 01:43:02,425 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-12-09 01:43:02,427 - INFO - Gmail authentication successful.
+2024-12-09 01:43:02,427 - INFO - Fetching emails...
+2024-12-09 01:43:02,427 - INFO - Fetching up to 50 emails from the Primary Inbox...
+2024-12-09 01:43:12,514 - INFO - Successfully fetched 50 emails.
+2024-12-09 01:43:12,514 - INFO - Fetched 50 emails.
+2024-12-09 01:43:12,514 - INFO - Classifying emails...
+2024-12-09 01:43:12,514 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:13,210 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:13,217 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:13,217 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:13,849 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:13,852 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:13,852 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:14,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:14,461 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:14,462 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:15,070 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:15,072 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:15,072 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:15,566 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:15,568 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:15,569 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:16,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:16,918 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:16,918 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:17,534 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:17,536 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:17,537 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:18,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:18,145 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:18,145 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:18,653 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:18,654 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:18,654 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:19,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:19,167 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:19,168 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:20,292 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:20,315 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:20,315 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:20,987 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:20,989 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:20,989 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:21,521 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:21,523 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:21,523 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:22,136 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:22,138 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:22,138 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:23,467 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:23,469 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:23,470 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:25,619 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:25,621 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:25,621 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:26,444 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:26,447 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:26,447 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:27,152 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:27,153 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:27,153 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:28,168 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:28,170 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:28,170 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:28,768 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:28,771 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:28,771 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:29,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:29,245 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:29,245 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:29,761 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:29,763 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:29,763 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:30,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:30,946 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:30,947 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:31,498 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:31,500 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:31,500 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:31,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:31,949 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:31,950 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:32,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:32,687 - INFO - Classification result: ```json
+{
+  "classification": "Interview Invitation",
+  "company": "University of Cambridge",
+  "position": "PGCE Maths program"
+}
+```
+2024-12-09 01:43:32,688 - ERROR - Failed to decode response as JSON: ```json
+{
+  "classification": "Interview Invitation",
+  "company": "University of Cambridge",
+  "position": "PGCE Maths program"
+}
+```
+2024-12-09 01:43:32,688 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:33,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:33,119 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:33,119 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:33,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:33,605 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:33,605 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:34,219 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:34,221 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:34,222 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:38,315 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:38,317 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:38,318 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:38,932 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:38,934 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:38,935 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:39,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:39,619 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:39,619 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:40,465 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:40,468 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:40,468 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:41,544 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:41,551 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:41,551 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:42,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:42,312 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:42,312 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:42,777 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:42,781 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:42,781 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:43,494 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:43,497 - INFO - Classification result: ```json
+{
+  "classification": "Rejection",
+  "company": "Qlip",
+  "position": "tech"
+}
+```
+2024-12-09 01:43:43,498 - ERROR - Failed to decode response as JSON: ```json
+{
+  "classification": "Rejection",
+  "company": "Qlip",
+  "position": "tech"
+}
+```
+2024-12-09 01:43:43,498 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:44,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:44,152 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:44,152 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:44,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:44,665 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:44,665 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:48,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:48,658 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:48,658 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:49,271 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:49,274 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:49,274 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:50,502 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:50,504 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:50,505 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:51,217 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:51,220 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:51,220 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:52,020 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:52,022 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:52,023 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:52,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:52,961 - INFO - Classification result: ```json
+{
+  "classification": "Rejection",
+  "company": "Oxford University",
+  "position": "Mathematics Program"
+}
+```
+2024-12-09 01:43:52,962 - ERROR - Failed to decode response as JSON: ```json
+{
+  "classification": "Rejection",
+  "company": "Oxford University",
+  "position": "Mathematics Program"
+}
+```
+2024-12-09 01:43:52,962 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:53,427 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:53,429 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:53,430 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:54,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:54,052 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:54,052 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:54,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:54,601 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:54,602 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:55,825 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:55,827 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:55,827 - INFO - Sending content to OpenAI chat.completions.create API...
+2024-12-09 01:43:56,440 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-09 01:43:56,443 - INFO - Classification result: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Email classification complete.
+2024-12-09 01:43:56,443 - INFO - Classified Emails:
+2024-12-09 01:43:56,443 - INFO - Subject: It just works., Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Your Amazon.co.uk order of "ORSKEY Dash Cam for Cars...", Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Front Office Quantitative Developer at Barclays and 2 more Quantitative developer jobs in London for you!, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: “software engineer”: G2i Inc. - Software Engineer for Training AI Data (Python) and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Software Engineer (DV Security Clearance) @ CGI, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: “quantitative developer”: VirtueTech Recruitment Group - Quant Developer | Structured products, Options, Swaps, Pricing | £150,000 + Bonus | Hybrid working, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Backend Software Engineer C# .Net AI ChatGPT @ client server, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Chrysalis junior developer @ ADHD 360, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,443 - INFO - Subject: Respond to your teacher training offer from UCL, University College London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Your weekly vacancy update from UCL Careers, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 13 new Quantitative developer jobs in London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “quantitative developer”: Akkodis - Quantitative Developer - Python - Asset Management, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Software Engineer AWS Golang TypeScript @ client server, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “software engineer”: RoundOne AI - Graduate Software Engineer (GenAI) and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “graduate software engineer”: Javelin Global Commodities - Graduate Software Engineer, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 21 new Quantitative developer jobs in London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Software Engineer Labview (Manufacturing) @ Hays Recruitment, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Technical Lead @ CGI, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Top opportunities for “software engineer”, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “quantitative developer”: Jobs via eFinancialCareers - Desktop Build Group (DBG) Junior Client Quant Developer (Excel/Python), Specialist Sales - Financial Solutions - Bloomberg and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: You have canceled Premium Career, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: RE: **URGENT** Change in interview slot, Classification: ```json
+{
+  "classification": "Interview Invitation",
+  "company": "University of Cambridge",
+  "position": "PGCE Maths program"
+}
+```
+2024-12-09 01:43:56,444 - INFO - Subject: Automatic reply: **URGENT** Change in interview slot, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: You have submitted your assignment submission for Upload your completed Safer Recruitment Declaration here. Please do not forget to sign it., Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: South Korea withstands a shocking stress test, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Citadel Enterprise Americas is hiring for Central Risk Services | Quantitative Developer + 15 new Quantitative developer jobs in London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: You have a new message, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: “software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,444 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: “graduate software engineer”: Bending Spoons - Graduate Software Engineer and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: New key, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Proceso de selección Qlip como Junior Product Engineer, Classification: ```json
+{
+  "classification": "Rejection",
+  "company": "Qlip",
+  "position": "tech"
+}
+```
+2024-12-09 01:43:56,445 - INFO - Subject: “graduate software engineer”: Starling Bank - Graduate Software Engineer - 2025, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Web Developer @ RAI, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Société Générale is hiring for V.I.E. Multi-asset Research Analyst - Python Developer H/F/X + 4 new Junior Quantitative Developer jobs , Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: “quantitative developer”: Citi - Quantitative Developer (Credit), AVP and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: “software engineer”: POLYAI LIMITED - Software Engineer (Must be UK based) and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Synapri is hiring for Python Developer + 16 new Quantitative developer jobs in London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Update on your application, Classification: ```json
+{
+  "classification": "Rejection",
+  "company": "Oxford University",
+  "position": "Mathematics Program"
+}
+```
+2024-12-09 01:43:56,445 - INFO - Subject: Bruno, you have new application updates this week, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: TS Imagine is hiring for Quantitative Data Developer + 14 new Quantitative developer jobs in London, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: “quantitative developer”: Hunter Bond - C++ Quantitative Developer - Hybrid Working - £70,000 - £275,000 Base (+ Bonus) and more, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: Hi Bruno, your latest update from targetjobs, Classification: {"classification": "Other"}
+2024-12-09 01:43:56,445 - INFO - Subject: “software engineer”: Cancer Research UK (CRUK) - Associate Software Engineer and more, Classification: {"classification": "Other"}
